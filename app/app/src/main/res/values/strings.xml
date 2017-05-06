@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompanyChat</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+</resources>

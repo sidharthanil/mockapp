@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.0_68c71ac60f8264fa5bc29535f00c75ef76da2832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_2393516154db063fb2e7f0fee7cef090c74a3258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80fca9f0cf103120ce7425c7cfef3913fe4d36bc">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13d41f36cd018f5bc62b0ef6cdb96a36704bc06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_fa8473201be0fe8b1f76607d47afb6c5896b866b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_cd02f16fdde3a92f7d374fde1ae324dd6c492705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_7c13c8fb5962904259a078b77e4b5f8a6f20897c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.0_1cf39df9b29336be6b63c5ff7e2b1c2f1398405b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_65110d6410ea576a517baa7c75e8bcb7b4bfd902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea63e068d764cc2293af2bc2a16a9565665ca69f">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cdaf307a8c3debe816d9eab9ec4f743245f904e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_2b85f17f49b8716636c0e9399959d4b24783ff7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_2e464cae0932f4dfb93e9d69b46bf14432ce11e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_d57b23392e9881231cf3f944a40197880198447d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_73554dbe677d86cb13f97f6ad825ed6c614d7342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_282d8ab3afdfd3dd7a981934fd21850b896c0e26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_5c7bc01d5bd428dcb653b6b4c543f3e30f42fca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_3692b02eccdcfacd3b60d531a34abb216b08b654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_1510ac40bf93ea2febe2d6f249b5cc556e3604e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.0_c3940cd2dd05201fb44f16046a88b50626d98f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.3.0_69dbb36ab18d2cf6c0b48b4bfe5daa1e4b605079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.github.franmontiel/PersistentCookieJar/v1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4585dc91cf7d8f029d78a84e84b4fde6b4dedfe6">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.franmontiel-PersistentCookieJar-v1.0.1_efa65291d618f7f605fdf4b8fd979a232aa225db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_149836ef841a219a30f8cebf85ee21c0d42401eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.0_23b0e0eee26fe69a37c9134f56c4f36dfc1b8633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_afd733c770ec67ab613d5a0dc08148eac7c7f9c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/Sid/Android/MockApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_ceba7ad791e1a2f6d690b833a73f85fca6181373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_aceb7f8f578118624687ef7695dfe298a21221ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/irisind/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/irisind/Sid/Android/MockApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_71c65bc660cbd0e2c6ab162e4868ee8fd0c8e699/classes.dex" />
+    </item>
+
+</items>
